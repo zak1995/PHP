@@ -98,6 +98,7 @@ require_once ('connect.php');
 							<option value="25">25</option>
 							<option value="26">26</option>
 							<option value="27">27</option>
+							<option value="28">28</option>
 							
 
 						</select>
